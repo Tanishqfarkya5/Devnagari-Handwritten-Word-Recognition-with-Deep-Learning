@@ -1,0 +1,1 @@
+# Devnagari-Handwritten-Word-Recognition-with-Deep-Learning
